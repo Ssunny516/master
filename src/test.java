@@ -12,5 +12,6 @@ public class test {
 //        System.out.print(guid);
         UUID uuid = UUID.randomUUID();
         System.out.print(uuid);
+        System.out.println(uuid);
     }
 }
