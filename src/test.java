@@ -13,6 +13,7 @@ public class test {
         UUID uuid = UUID.randomUUID();
         System.out.print(uuid);
         System.out.println(uuid);
-	System.out.println("lizhuo");
+	    System.out.println("lizhuo");
+	    System.out.println("new branch features");
     }
 }
